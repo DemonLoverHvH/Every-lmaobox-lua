@@ -156,7 +156,7 @@ This repository should have every Lmaobox lua made and posted on Lmaobox Forums.
 
 - votereveal.lua - Reveals who voted what. by @masterhero <https://github.com/LewdDeveloper/lmaobox-scripting/blob/master/vote.lua>
 
-- x88Cheats Menu - It writes text on your screen indicating which modules you have enabled and which you don't. by @zade <https://github.com/DemonLoverHvH/lmaoboxluas/blob/main/x88.lua>
+- x88Cheats Menu - It writes text on your screen indicating which modules you have enabled and which you don't. by @IamTheTrophy and @zade <https://github.com/DemonLoverHvH/lmaoboxluas/blob/main/x88.lua>
 
 - Moveable rainbow watermark - This lua allows you to drag anywhere a rainbow watermark. by @xyznothacking <https://github.com/xyznothacking/watermark>
 
